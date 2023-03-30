@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  
+  p {
+    color: black; 
+    padding-bottom: 5px;
+  }
+  
+  .sec1 {
+    background-color: rgb(214, 169, 132);
+    border: 1px solid black;
+    position: relative;
+  }
+  .sec2 {
+    background-color: rgb(223, 237, 184);
+    border: 1px solid black;
+    position: relative;
+  }
+  .sec3 {
+    background-color: rgb(149, 219, 198);
+    border: 1px solid black;
+    position: relative;
+  }
+  
+  .chicken {
+    border: 1px solid black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    text-align: center;
+    background-color: rgb(240, 174, 185);
+    width: 123px;
+    height: 30px;
+    font-family: Lucida Sans;
+    margin: auto;
+  }
+  .beef {
+    border: 1px solid black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    text-align: center;
+    background-color: rgb(199, 88, 88);
+    width: 123px;
+    height: 30px;
+    font-family: Lucida Sans;
+    margin: auto;
+  }
+  .sushi {
+    border: 1px solid black;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    text-align: center;
+    background-color: rgb(230, 235, 159);
+    width: 123px;
+    height: 30px;
+    font-family: Lucida Sans;
+    margin: auto;
+  }
